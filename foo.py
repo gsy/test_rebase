@@ -9,6 +9,9 @@ def bar():
 
 def boo():
     print "3"
+    
+def bam():
+    print "4"
 
 
 
